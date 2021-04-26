@@ -18,12 +18,7 @@
 } */
 
 
-/* NAVBAR */
-
-.navbarNav {}
-
-
-/* JUMBOTRON 
+/* JUMBOTRON */
 
 .jumbotron {
     background-image: url('/image/portada.jpg');
@@ -39,4 +34,3 @@
     font-size: 30px;
     line-height: 1.5;
 }
-*/
