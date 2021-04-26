@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+}
+
+
+/* .acomodo img {
+    height: 65vh;
+}
+
+
+#features​ {
+    background-image: url(/image/portada.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px; 
+} */
+
+
+/* NAVBAR */
+
+.navbarNav {}
+
+
+/* JUMBOTRON 
+
+.jumbotron {
+    background-image: url('/image/portada.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: #200000;
+    border-radius: 0px !important;
+}
+
+.jumbotron h1 {
+    margin: 30px 0;
+    font-size: 30px;
+    line-height: 1.5;
+}
+*/
